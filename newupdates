@@ -1,5 +1,6 @@
-[+] Server Will block all modified client files except audio files and known graphics mods.
-[+]Fixed Crypto in phone
-[+]Fixed few bugs in phone
-[+]Updated few server settings
-[+]Fixed few bugs
+[+] Added Bot Revive When 1 EMS in City.
+[+] Added Speed cameras.
+[+] Updated Family vehicle handling
+[+] Updated few server settings.
+[+] Removed Ping kick.
+[+] Fixed few bugs in city.
